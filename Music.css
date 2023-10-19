@@ -1,0 +1,20 @@
+#sh{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: square;
+}
+#si{
+    color: red;
+}
+li{
+    color: aqua;
+}
+img:hover{
+    width: 600px;
+    height: 600px;
+    border-radius: 100%;
+    transform: rotate(3600deg);
+    transition: transform 3s;
+}
